@@ -1,4 +1,6 @@
+<div align="center"><img  height="150px" src="https://i.imgur.com/0lfS9gN.png" /></div>
 <h1 align="center"> PenQuiz </h1>
+
 PenQuiz is a trivia PvP game which is set in Antarctica. Game offers multiple playable characters with various abilities that help the player throughout the game. The game consists of 3 different stages with multiple rounds and requires 3 people per match to play. Capture territories from other players with engaging trivia questions. Scoring is based on the amount of territories and points you own.
 <br />
 <br />
