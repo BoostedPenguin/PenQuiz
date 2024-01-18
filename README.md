@@ -7,14 +7,19 @@ PenQuiz is a trivia PvP game which is set in Antarctica. Game offers multiple pl
 This repository contains documentation and information regarding the PenQuiz project.
 
 # Table of contents
-1. [Features](#features)
-2. [How to play?](#production)
-3. [Game rules](#gamerules)
-4. [Game characters](#gamecharacters)
-5. [Architecture](#architecture)
-6. [Backend stack](#backendstack)
-7. [Frontend stack](#frontendstack)
-8. [In game pictures](#ingamepictures)
+1. [Source](#source)
+2. [Features](#features)
+3. [How to play?](#production)
+4. [Game rules](#gamerules)
+5. [Game characters](#gamecharacters)
+6. [Architecture](#architecture)
+7. [Backend stack](#backendstack)
+8. [Frontend stack](#frontendstack)
+9. [In game pictures](#ingamepictures)
+
+# Source <a name="source" />
+- Backend repo - https://github.com/BoostedPenguin/PenQuiz-Backend
+- Frontend repo - https://github.com/BoostedPenguin/PenQuiz-Frontend
 
 # Features <a name="features" />
 - Engaging trivia battles
